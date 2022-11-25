@@ -1,0 +1,9 @@
+{
+    "extends": [
+        "qiuye"
+    ],
+    "ignorePatterns": ["ProjectDom.vue", "Lable.vue", "Stack.vue"],
+    "rules": {
+        "unicorn/filename-case": "off"
+    }
+}

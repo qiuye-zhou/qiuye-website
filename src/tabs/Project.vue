@@ -6,7 +6,7 @@ import ProjetcDom from '../components/compons/ProjectDom.vue';
         <ProjetcDom
             :title="'use-aid'"
             :description="'Utility set for Vue3 only'"
-            :icons="['vue', 'typescript']"
+            :icons="['org-utility', 'vue', 'typescript']"
         />
         <ProjetcDom
             :title="'qiuye-robot'"

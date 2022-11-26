@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { ref } from 'vue';
-import { useMedia } from '../utils/useMedia'
+import { useMedia } from 'use-aid';
 
 const isMedia = ref(useMedia());
 </script>

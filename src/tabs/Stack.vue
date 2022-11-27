@@ -21,14 +21,14 @@ const isMedia = ref(useMedia());
         </p>
         <img
             class="mt-5"
-            :src="`https://skillicons.dev/icons?i=nestjs,nodejs,express,mysql,redis&perline=${isMedia ? 5 : 10}`"
+            :src="`https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis&perline=${isMedia ? 5 : 10}`"
         >
         <p class="mt-5">
             DevOps：
         </p>
         <img
             class="mt-5"
-            :src="`https://skillicons.dev/icons?i=github,vscode,git,githubactions&perline=${isMedia ? 5 : 10}`"
+            :src="`https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions&perline=${isMedia ? 5 : 10}`"
         >
         <p class="mt-5">
             想学和目前只会一点基础想掌握的(可能吧)：

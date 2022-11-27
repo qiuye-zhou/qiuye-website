@@ -31,6 +31,12 @@ import Lable from './compons/Lable.vue';
             >
                 LeetCode
             </Lable>
+            <Lable
+                :url="'http://qiuye.space'"
+                :icon="'NoteBook'"
+            >
+                NoteBook
+            </Lable>
         </div>
     </div>
 </template>

@@ -2371,10 +2371,10 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-use-aid@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/use-aid/-/use-aid-0.0.1.tgz#7bef0f0dbaedae5a479590f038f945aa78cd02c1"
-  integrity sha512-6OJvxVVGZpr7y2eczYitjYPxUlv56dCMGLKzkwpRi0JQdBEglP+GdUlOZ38k0vSKELQN9WLE3xetQ0XoXCLorA==
+use-aid@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/use-aid/-/use-aid-0.0.2.tgz#655085e16cb56930666de9a09c1fcf9b0b7639a7"
+  integrity sha512-cOO8t95kqEU0WefPHo3Me3cTr3FKQtCBCCOYgICZXkWpPPkjNtnLHZjQH9+EsS6+M2cFaY+V36guwSJ9mU1xEA==
 
 util-deprecate@^1.0.2:
   version "1.0.2"

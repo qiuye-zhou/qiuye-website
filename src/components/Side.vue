@@ -9,8 +9,8 @@ import Lable from './compons/Lable.vue';
             style="width: 200px"
             src="../../public/images/qiuye.png"
         >
-        <h1 class="text-4xl font-medium !leading-relaxed mt-5">
-            <span class="px-3">👋</span>大家好! 我是
+        <h1 class="text-3xl font-medium !leading-relaxed mt-5">
+            大家好! 我是
             <span class="bg-gray-200 dark:bg-gray-300 px-2 rounded-lg transition-all">
                 qiuye
             </span>

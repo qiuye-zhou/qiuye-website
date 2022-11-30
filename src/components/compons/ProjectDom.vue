@@ -9,7 +9,7 @@ const props = defineProps<{
     <a
         :href="`https://github.com/qiuye-zhou/${props.title}`"
         target="_blank"
-        class="hover:shadow-lg dark:hover:shadow-lg"
+        class="hover:shadow-lg dark:hover:shadow-lg hover:-translate-y-0.5 transition-all"
     >
         <div
             class="shadow w-full h-full flex flex-col justify-center

@@ -32,10 +32,22 @@ import Lable from './compons/Lable.vue';
                 LeetCode
             </Lable>
             <Lable
-                :url="'http://qiuye.space'"
+                :url="'https://www.yuque.com/qiuye-nfnq0'"
+                :icon="'语雀'"
+            >
+                Blog
+            </Lable>
+            <Lable
+                :url="'https://qiuye.space'"
                 :icon="'NoteBook'"
             >
                 NoteBook
+            </Lable>
+            <Lable
+                :url="'https://todolist.qiuye.space'"
+                :icon="'时间'"
+            >
+                Todolist
             </Lable>
         </div>
     </div>

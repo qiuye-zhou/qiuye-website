@@ -14,6 +14,11 @@ import ProjetcDom from '../components/compons/ProjectDom.vue';
             :icons="['robot', 'typescript']"
         />
         <ProjetcDom
+            :title="'todolist'"
+            :description="'简约风格的todolist，使用本地存储'"
+            :icons="['时间', 'typescript']"
+        />
+        <ProjetcDom
             :title="'eslint-config-qiuye'"
             :description="'my eslint config.'"
             :icons="['eslint']"

@@ -917,10 +917,10 @@ eslint-config-airbnb-base@^15.0.0:
     object.entries "^1.1.5"
     semver "^6.3.0"
 
-eslint-config-qiuye@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/eslint-config-qiuye/-/eslint-config-qiuye-0.0.3.tgz#c7582bbf40450492542347b839de4cdf0ca1e43b"
-  integrity sha512-I709CONh9M/JlCeexpZwRkp6+Xvtf3Y6qhrzhtmr5/7NaVi7rAfpy3lL05Tz9TVbPa4WeZjEL29HCIqlkRtCGA==
+eslint-config-qiuye@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/eslint-config-qiuye/-/eslint-config-qiuye-0.0.4.tgz#19da89be346093d49f851ae3265065a6b05fd593"
+  integrity sha512-G2cJcMHqd6tPWMNHiPmru5PiEhJ2MY4+/44xyLxVlc8h2o2CLknf7Lhn2TZFZZ5pH6UINslHoP+3Jr0Z18GZ2w==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^5.43.0"
     "@typescript-eslint/parser" "^5.43.0"

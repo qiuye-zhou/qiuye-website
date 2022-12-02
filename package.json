@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "use-aid": "^0.0.5",
+    "use-aid": "^0.0.6",
     "vue": "^3.2.41"
   },
   "devDependencies": {
